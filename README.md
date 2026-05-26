@@ -255,7 +255,7 @@ The compiled HEX file was generated using Keil µVision and tested using Proteus
 ## 📞 Contact & Questions
 
 **Author**: Siri Satyamurthy  
-**Email**: sirisatyamurthy8@gmail.com  
+**Email**: sirisatyamurthy18@gmail.com  
 **GitHub**: github.com/sirisatyamurthy  
 **LinkedIn**: https://www.linkedin.com/in/siri-satyamurthy-726536331/
 
